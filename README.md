@@ -171,10 +171,6 @@ npm run test:cov
 
 ---
 
-## 📦 Deploy
-
----
-
 ## 🧑‍💻 Autores
 
 - Gabriel Telles
