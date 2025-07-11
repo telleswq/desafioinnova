@@ -169,9 +169,5 @@ npm run test:cov
 - ✅ Exibição dos projetos em um quadro Kanban
 - ✅ Proteção de rotas com autenticação
 
----
 
-## 🧑‍💻 Autores
-
-- Gabriel Telles
 
